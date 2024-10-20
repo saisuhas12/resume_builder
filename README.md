@@ -26,6 +26,3 @@ No installation is required. Simply open the index.html file in any modern web b
 Contributing:
 
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
-License:
-
-This project is licensed under the MIT License. See the LICENSE file for details.
